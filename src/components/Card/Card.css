@@ -1,0 +1,46 @@
+.card {
+  width: 20rem;
+  height: 30rem;
+  border-radius: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: dotted 0.3rem #5bccf6;
+  transition: all 0.3s;
+}
+.card:hover {
+  border: dotted 0.3rem #fcde67;
+}
+.card img {
+  width: 100%;
+  height: 15rem;
+  margin: 1rem;
+  object-fit: cover;
+}
+.card h2 {
+  max-width: 95%;
+  height: 5rem;
+  margin: 1rem;
+  color: #fcde67;
+  font-size: 1.4rem;
+  text-align: center;
+}
+.card button {
+  margin: 0;
+  border: 0;
+  padding: 1rem;
+  background-color: #5bccf6;
+  color: #030e12;
+  font-size: 1.2rem;
+  margin: 2rem;
+  text-transform: uppercase;
+  font-family: inherit;
+  transition: all 250ms;
+  border-radius: 8%;
+}
+.card button:hover {
+  background-color: tomato;
+  color: #ffff;
+  transform: scale(1.05);
+}
