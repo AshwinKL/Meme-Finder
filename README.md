@@ -6,7 +6,7 @@ This app has the collection of 100 memes to check out.
 - CSS
 - React Js
 
-API used:IMGFLIP
+API used : IMGFLIP
 
 ## Functionalities:
 - Realtime fetching from api
