@@ -1,18 +1,18 @@
-# Meme-Finder-Akra
+# Meme-Finder-Akra 😵‍💫
 This app has the collection of 100 memes to check out.
 
-## Tech used:
+## Tech used: 🧑
 - HTML
 - CSS
 - React Js
 
-API used : IMGFLIP
+API used : IMGFLIP 🎃
 
-## Functionalities:
+## Functionalities: 😵‍💫
 - Realtime fetching from api
 - Loading Component
 - Local Storage
 
-## Watch the live site [here](https://meme-akra.netlify.app/)
+## Watch the live site [here](https://meme-akra.netlify.app/) 👈
 
 
